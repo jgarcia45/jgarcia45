@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently learning how to program in React. I am working on trying to improve my personal website/portfolio. This is my current website: [Website](
+
 <!--
 **jgarcia45/jgarcia45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
