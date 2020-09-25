@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am currently learning how to program in React. I am working on trying to improve my personal website/portfolio. This is my current website: [Website](
+I am currently working as a warehouser worker for Target. I am hoping to be a full time Software Engineer in the future. 
+🔭 I’m currently working on learning how to develop in React. I am practicing by working on trying to improve my personal website/portfolio. This is my current website: [Website](https://juanalfredogarciajr.com/).  I have the source code listed here: [Source Code](https://github.com/jgarcia45/jgarcia45.github.io). I am hoping to transform my website into a nice website using React.
+
+📫 How to reach me: 
+- [LinkedIn](https://www.linkedin.com/in/jgarcia45/).
 
 <!--
 **jgarcia45/jgarcia45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
