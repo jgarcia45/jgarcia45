@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Juan Garcia and I am currently working as a warehouser worker for Target. I am hoping to be a full time Software Engineer in the future. <br />
+My name is Juan Garcia and I am currently working as a seasonal warehouser worker for Target. I am hoping to be a full time Software Engineer in the future. <br />
 
 ## Projects
 🔭 I’m currently working on learning how to develop in React. I am practicing by working on trying to improve my personal website/portfolio. This is my current website: [Website](https://juanalfredogarciajr.com/).  I have the source code listed here: [Source Code](https://github.com/jgarcia45/jgarcia45.github.io). I am hoping to transform my website into a well organized and pretty design to showcase my resume/portfolio using React. Although there is not much detailed at the moment, here is the link to the React Website: [React](https://portfolio-cdb71.web.app/).
