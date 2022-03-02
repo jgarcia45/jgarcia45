@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Juan Garcia. I am currently attending a Coding Bootcamp to being a Full Stack Web Developer at Michigan State University. I have a Bachelors Degree from California State Univerisy, Bakersfield in Computer Engineering with a Minor in Computer Science. I am currently working as a warehouser worker for Target.<br />
+My name is Juan Garcia. I am currently working as a Warehouse Worker and achieving a certificate in full stack web development from Michigan State University Coding Bootcamp. Received a Bachelors in Computer Engineering with a Minor in Computer Science from California State University, Bakersfield. Honed and applied skills in JavaScript, CSS, React.js, and SQL to create user-friendly applications. Highly adept at problem solving, coding, and analyzing software with others to create a successful product. Excited to develop scalable solutions and user-friendly products for the end user. <br />
 
 ## Projects
 🔭 
