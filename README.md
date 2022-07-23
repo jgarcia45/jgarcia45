@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Garcia</h1>
 <h3 align="center">A passionate developer from California.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jgarcia45" alt="jgarcia45" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://jgarcia.netlify.app/](https://jgarcia.netlify.app/)
 
 - 📫 How to reach me **jgarcia1545@gmail.com**
@@ -18,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgarcia45&show_icons=true&locale=en&layout=compact" alt="jgarcia45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgarcia45&show_icons=true&locale=en" alt="jgarcia45" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jgarcia45&" alt="jgarcia45" /></p>
