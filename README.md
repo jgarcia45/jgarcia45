@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Garcia</h1>
-<h3 align="center">Working as a System Analyst for the Kern County Department of Human Services. A passionate developer from California with a Certificate from Michigan State University in Full Stack Web Development. Received a Bachelor's Degree in Computer Engineering with a Minor in Computer Science from California State University, Bakersfield.</h3>
+<h3 align="center">Working as a System Analyst for Kern County Department of Human Services. A passionate developer from California with a Certificate from Michigan State University in Full Stack Web Development. Received a Bachelor's Degree in Computer Engineering with a Minor in Computer Science from California State University, Bakersfield.</h3>
 
 - 👨‍💻 All of my projects are available at [https://jgarcia.netlify.app/](https://jgarcia.netlify.app/)
 
